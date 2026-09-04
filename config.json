@@ -1,0 +1,20 @@
+{
+  "polling_interval_ms": 3000,
+  "max_workers": 20,
+  "auto_start_monitoring": true,
+  "coupon_regex": "\\b[A-Z0-9]{3,}-[A-Z0-9]{3,}\\b",
+  "enable_ocr": true,
+  "enable_sound": true,
+  "enable_clipboard": true,
+  "enable_notification": true,
+  "browser_profile_path": "./x_monitor_session",
+  "headless": false,
+  "redemption_url": "",
+  "open_redemption_page": false,
+  "theme": "dark",
+  "default_accounts": [
+    "khushman",
+    "lucidtrading",
+    "fundingpips"
+  ]
+}

@@ -1,0 +1,7 @@
+# Coupon Sniper - Dependencies
+customtkinter>=5.2.0
+playwright>=1.40.0
+pyperclip>=1.8.2
+plyer>=2.1.0
+easyocr>=1.7.0
+aiohttp>=3.9.0
